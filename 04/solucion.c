@@ -1,6 +1,6 @@
 #include "solucion.h"
 
-void solucion(int **vector) {
+void solucion(pokemon_t *poke) {
     // Tu código
 
 }
