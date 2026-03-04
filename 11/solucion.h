@@ -1,9 +1,9 @@
 #include <stdlib.h>
 
-const int MAX_NOMBRE = 10;
-const int MAX_TIPO = 5;
-const int MAX_POKES_INICIAL = 3;
-const int MAX_POKES_NUEVO = 6;
+#define MAX_NOMBRE 10;
+#define MAX_TIPO 5;
+#define MAX_POKES_INICIAL 3;
+#define MAX_POKES_NUEVO 6;
 
 typedef struct {
     int id;

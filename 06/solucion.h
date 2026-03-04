@@ -1,8 +1,8 @@
 #include <stdlib.h>
 
 
-const int MAX_NOMBRE = 10;
-const int MAX_TIPO = 5;
+#define MAX_NOMBRE 10;
+#define MAX_TIPO 5;
 
 typedef struct {
     int id;
